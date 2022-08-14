@@ -1,2 +1,5 @@
 @chenge files for test Conflict
 @chenge files
+
+отложенные изменения
+перенос изменениий stash
