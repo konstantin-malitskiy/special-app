@@ -1,6 +1,8 @@
 @chenge files for test Conflict
 @chenge files
 
-отложенные изменения
+
 слияние веток
+
+объединение веток
 
