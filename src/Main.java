@@ -10,6 +10,6 @@ public class Main {
         System.out.println(
                 Runtime.getRuntime().maxMemory() / 1024 / 1024 + "Mb"
         );
-	System.out.println(
+	System.out.println(Количество памяти, доступной JVM
     }
 }
