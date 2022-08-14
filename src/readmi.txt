@@ -6,3 +6,7 @@ for test Conflict
 @chenge files for test Conflict
 конфликты слияния
 объединение веток
+=======
+
+новая ветка из веток
+>>>>>>> new-header
