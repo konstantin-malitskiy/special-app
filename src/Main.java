@@ -11,5 +11,5 @@ public class Main {
                 Runtime.getRuntime().maxMemory() / 1024 / 1024 + "Mb"
         );
 	System.out.println(Количество памяти, доступной JVM
-    }
-}
+    }Количество памяти, доступной JVM
+}System.out.println(
