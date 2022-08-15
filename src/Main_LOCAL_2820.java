@@ -10,12 +10,6 @@ public class Main {
         System.out.println(
                 Runtime.getRuntime().maxMemory() / 1024 / 1024 + "Mb"
         );
-<<<<<<< HEAD
 	System.out.println(Количество памяти, доступной JVM
     }Количество памяти, доступной JVM
 }System.out.println(
-=======
-	System.out.println(
-    }
-}
->>>>>>> parent of 4aeaba4 (summer branches 2)
