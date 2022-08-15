@@ -1,4 +1,5 @@
 @chenge files for test Conflict
+<<<<<<< HEAD
 for test Conflict
 
 конфликты слияния
@@ -7,3 +8,8 @@ for test Conflict
 
 новая ветка из веток
 
+=======
+@chenge files
+проверка новой ветки с сервер
+обратная проверка
+>>>>>>> 69a36d6cf350e10165e881571bf909925c72b140
